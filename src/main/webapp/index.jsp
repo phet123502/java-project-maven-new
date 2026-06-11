@@ -348,7 +348,7 @@
     </div>
 
     <!-- ------------------ New Releases ------------------ -->
-    <h1 class="title">New Releases</h1>
+    <h1 class="title">New Versions</h1>
     <div class="movies-list">
         <button class="pre-btn"><img src="./assets/img/pre.png" alt=""></button>
         <button class="nxt-btn"><img src="./assets/img/nxt.png" alt=""></button>
